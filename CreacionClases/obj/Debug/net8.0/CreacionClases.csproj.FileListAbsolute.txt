@@ -1,0 +1,14 @@
+C:\Users\Cristofer Berganza\source\repos\CreacionClases\CreacionClases\bin\Debug\net8.0\CreacionClases.exe
+C:\Users\Cristofer Berganza\source\repos\CreacionClases\CreacionClases\bin\Debug\net8.0\CreacionClases.deps.json
+C:\Users\Cristofer Berganza\source\repos\CreacionClases\CreacionClases\bin\Debug\net8.0\CreacionClases.runtimeconfig.json
+C:\Users\Cristofer Berganza\source\repos\CreacionClases\CreacionClases\bin\Debug\net8.0\CreacionClases.dll
+C:\Users\Cristofer Berganza\source\repos\CreacionClases\CreacionClases\bin\Debug\net8.0\CreacionClases.pdb
+C:\Users\Cristofer Berganza\source\repos\CreacionClases\CreacionClases\obj\Debug\net8.0\CreacionClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristofer Berganza\source\repos\CreacionClases\CreacionClases\obj\Debug\net8.0\CreacionClases.AssemblyInfoInputs.cache
+C:\Users\Cristofer Berganza\source\repos\CreacionClases\CreacionClases\obj\Debug\net8.0\CreacionClases.AssemblyInfo.cs
+C:\Users\Cristofer Berganza\source\repos\CreacionClases\CreacionClases\obj\Debug\net8.0\CreacionClases.csproj.CoreCompileInputs.cache
+C:\Users\Cristofer Berganza\source\repos\CreacionClases\CreacionClases\obj\Debug\net8.0\CreacionClases.dll
+C:\Users\Cristofer Berganza\source\repos\CreacionClases\CreacionClases\obj\Debug\net8.0\refint\CreacionClases.dll
+C:\Users\Cristofer Berganza\source\repos\CreacionClases\CreacionClases\obj\Debug\net8.0\CreacionClases.pdb
+C:\Users\Cristofer Berganza\source\repos\CreacionClases\CreacionClases\obj\Debug\net8.0\CreacionClases.genruntimeconfig.cache
+C:\Users\Cristofer Berganza\source\repos\CreacionClases\CreacionClases\obj\Debug\net8.0\ref\CreacionClases.dll
